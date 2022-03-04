@@ -1,5 +1,5 @@
 :root {
-  --cor-principal: #b07dfb;
+  --cor-principal: #ff9f45;
   --cor-leao: #ff9f45;
 }
 
@@ -67,7 +67,7 @@ img {
 /*Header*/
 .header {
   grid-area: header;
-  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  background: linear-gradient(135deg, #f76e11, #ff9f45);
   padding: 30px;
   display: grid;
   grid-template-columns: 1fr auto;
@@ -134,6 +134,14 @@ img {
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
   transition: 0.1s ease-out;
+}
+
+.leao-nav {
+  border: solid 2px #ff9f45;
+}
+
+.sidenav li a:nth-child(2) {
+  background-color: #ff9f45;
 }
 
 .sidenav li a:hover {
@@ -245,10 +253,14 @@ p {
 .caracteristicas > div {
   width: 80px;
   text-align: center;
-  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  background: linear-gradient(135deg, #f76e11, #ff9f45);
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
   position: relative;
+}
+
+.kg {
+  width: 100px !important;
 }
 
 .caracteristicas > div:first-child {
@@ -287,7 +299,7 @@ p {
   padding: 30px;
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
-  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  background: linear-gradient(135deg, #f76e11, #ff9f45);
 }
 
 .citacao p {
@@ -326,7 +338,7 @@ p {
 
 .footer {
   grid-area: footer;
-  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  background: linear-gradient(135deg, #f76e11, #ff9f45);
 }
 
 .footer p {
