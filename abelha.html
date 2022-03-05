@@ -12,7 +12,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="abelha.css">
+  <link rel="stylesheet" href="animar.css">
   <title>Discovery - Abelha</title>
+  <script>document.documentElement.classList.add("js");</script>
 </head>
 
 <body>
@@ -31,7 +33,7 @@
     </header>
 
     <nav class="sidenav">
-      <ul>
+      <ul class="fadeInDown" data-anime="800">
         <li><a href="./"><img src="./img/icones/cervo-color.svg" alt="Cervo"></a></li>
         <li><a href="./leao.html"><img src="./img/icones/leao-color.svg" alt="Leão"></a></li>
         <li><a class="abelha-nav" href=""><img src="./img/icones/abelha-color.svg" alt="Abelha"></a></li>
@@ -41,7 +43,7 @@
       </ul>
     </nav>
 
-    <main class="content">
+    <main class="content fadeInLeft" data-anime="200">
       <div class="titulo">
         <h1>Abelha</h1>
         <span>a hymenoptera</span>
@@ -110,6 +112,8 @@
 
   </div>
 
+  <script src="./js/plugins/simple-anime.js"></script>
+  <script src="./js/script.js"></script>
 </body>
 
 </html>
