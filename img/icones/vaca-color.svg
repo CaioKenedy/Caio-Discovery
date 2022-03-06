@@ -1,13 +1,13 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M23.5 0.5L19.5 5.5L16 7L12 5.5L8 7L4.5 5.5L0.5 0.5L1.5 6.5L5.5 10.5L1.5 12L4 14.5L5.8 12.7L6.5 18.2L5.5 18.5L7 23.5H9.5L12 22L14.5 23.5H17L18.5 18.5L17.5 18.2L18.2 12.7L20 14.5L22.5 12L18.5 10.5L22.5 6.5L23.5 0.5Z" fill="white"/>
-<path d="M6.5 18.2L12 16.5L17.8 18.3L17.5 18.2L18.2 12.9L15 9L12 8L9 9L5.8 12.9L6.5 18.2Z" fill="#E3B7A0"/>
-<path d="M5.5 18.5L9 21.5L12 19.5L15 21.5L18.5 18.5L17 23.5H14.5L12 22L9.5 23.5H7L5.5 18.5Z" fill="#E3B7A0"/>
-<path d="M6.5 18.2L5.5 10.5L8 7L12 5.5L16 7L18.5 10.5L17.5 18.2" stroke="#BF9270" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M17 23.5H14.5L12 22L9.5 23.5H7L5.5 18.5L12 16.5L18.5 18.5L17 23.5Z" stroke="#BF9270" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8 7L4.5 5.5L0.5 0.5L1.5 6.5L5.5 10.5L1.5 12L4 14.5L5.8 12.7" stroke="#BF9270" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M16 7L19.5 5.5L23.5 0.5L22.5 6.5L18.5 10.5L22.5 12L20 14.5L18.2 12.7" stroke="#BF9270" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M9.5 12.5V11.5" stroke="#BF9270" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M10.5 19.5V20.5" stroke="#BF9270" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M14.5 12.5V11.5" stroke="#BF9270" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M13.5 19.5V20.5" stroke="#BF9270" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.5 0.5L19.5 5.5L16 7L12 5.5L8 7L4.5 5.5L0.5 0.5L1.5 6.5L5.5 10.5L1.5 12L4 14.5L5.8 12.7L6.5 18.2L5.5 18.5L7 23.5H9.5L12 22L14.5 23.5H17L18.5 18.5L17.5 18.2L18.2 12.7L20 14.5L22.5 12L18.5 10.5L22.5 6.5L23.5 0.5Z" fill="#F7C5C5"/>
+<path d="M6.5 18.2L12 16.5L17.8 18.3L17.5 18.2L18.2 12.9L15 9L12 8L9 9L5.8 12.9L6.5 18.2Z" fill="#BA8780"/>
+<path d="M5.5 18.5L9 21.5L12 19.5L15 21.5L18.5 18.5L17 23.5H14.5L12 22L9.5 23.5H7L5.5 18.5Z" fill="#BA8780"/>
+<path d="M6.5 18.2L5.5 10.5L8 7L12 5.5L16 7L18.5 10.5L17.5 18.2" stroke="#845D3F" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17 23.5H14.5L12 22L9.5 23.5H7L5.5 18.5L12 16.5L18.5 18.5L17 23.5Z" stroke="#845D3F" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 7L4.5 5.5L0.5 0.5L1.5 6.5L5.5 10.5L1.5 12L4 14.5L5.8 12.7" stroke="#845D3F" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 7L19.5 5.5L23.5 0.5L22.5 6.5L18.5 10.5L22.5 12L20 14.5L18.2 12.7" stroke="#845D3F" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.5 12.5V11.5" stroke="#845D3F" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.5 19.5V20.5" stroke="#845D3F" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.5 12.5V11.5" stroke="#845D3F" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.5 19.5V20.5" stroke="#845D3F" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

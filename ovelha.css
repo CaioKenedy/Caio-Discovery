@@ -1,5 +1,5 @@
 :root {
-  --cor-principal: #b18d04;
+  --cor-principal: #f5d9bf;
   --cor-leao: #ff9f45;
 }
 
@@ -67,7 +67,7 @@ img {
 /*Header*/
 .header {
   grid-area: header;
-  background: linear-gradient(135deg, #ffc900, #ffff88);
+  background: linear-gradient(135deg, #dbd0c0, #f5d9bf);
   padding: 30px;
   display: grid;
   grid-template-columns: 1fr auto;
@@ -136,8 +136,8 @@ img {
   transition: 0.1s ease-out;
 }
 
-.abelha-nav {
-  border: solid 2px #ffff88;
+.ovelha-nav {
+  border: solid 2px #dbd0c0;
 }
 
 .sidenav li a:nth-child(2) {
@@ -145,7 +145,7 @@ img {
 }
 
 .sidenav li a:hover {
-  background: #ffff88;
+  background: #faeee0;
 }
 
 @keyframes seta {
@@ -253,7 +253,7 @@ p {
 .caracteristicas > div {
   width: 80px;
   text-align: center;
-  background: linear-gradient(135deg, #ffc900, #ffff88);
+  background: linear-gradient(135deg, #dbd0c0, #f5d9bf);
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
   position: relative;
@@ -273,7 +273,7 @@ p {
 }
 
 .numero {
-  color: #ffc900;
+  color: white;
   font-size: 3rem;
   line-height: 1;
   margin: 10px auto;
@@ -299,27 +299,27 @@ p {
   padding: 30px;
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
-  background: linear-gradient(135deg, #ffc900, #ffff88);
+  background: linear-gradient(135deg, #dbd0c0, #f5d9bf);
 }
 
 .citacao p {
   font-size: 1.5rem;
   font-style: italic;
   text-align: center;
-  color: var(--cor-principal);
+  color: white;
   max-width: 500px;
   margin: 0 auto;
 }
 
 .atributos li {
-  color: var(--cor-principal);
+  color: white;
   font-family: "Courier", monospace;
   font-size: 1.125rem;
   padding: 15px;
 }
 
 .atributos li + li {
-  border-top: 2px solid var(--cor-principal);
+  border-top: 2px solid white;
 }
 /*ANUNCIOS*/
 
@@ -338,11 +338,11 @@ p {
 
 .footer {
   grid-area: footer;
-  background: linear-gradient(135deg, #ffc900, #ffff88);
+  background: linear-gradient(135deg, #dbd0c0, #f5d9bf);
 }
 
 .footer p {
-  color: var(--cor-principal);
+  color: white;
   text-align: center;
   padding: 30px;
 }
