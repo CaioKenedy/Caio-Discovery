@@ -239,6 +239,7 @@ p {
 }
 
 .titulo span {
+  color: #917d63c7;
   font-size: 0.875rem;
   font-style: italic;
 }
@@ -257,10 +258,6 @@ p {
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
   position: relative;
-}
-
-.idade-vida {
-  width: 180px !important;
 }
 
 .caracteristicas > div:first-child {
@@ -289,7 +286,7 @@ p {
 
 .destaque {
   font-size: 0.87rem;
-  color: var(--cor-principal);
+  color: #917d63c7;
   max-width: 16rem;
 }
 
@@ -306,13 +303,13 @@ p {
   font-size: 1.5rem;
   font-style: italic;
   text-align: center;
-  color: white;
+  color: #917d63c7;
   max-width: 500px;
   margin: 0 auto;
 }
 
 .atributos li {
-  color: white;
+  color: #917d63c7;
   font-family: "Courier", monospace;
   font-size: 1.125rem;
   padding: 15px;
@@ -342,7 +339,7 @@ p {
 }
 
 .footer p {
-  color: white;
+  color: #917d63c7;
   text-align: center;
   padding: 30px;
 }
