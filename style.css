@@ -1,6 +1,6 @@
 :root {
-  --cor-principal: #b07dfb;
-  --cor-leao: #ff9f45;
+  --cor-principal: #93b5c6;
+  --cor-sec: #4b6587;
 }
 
 body,
@@ -67,7 +67,7 @@ img {
 /*Header*/
 .header {
   grid-area: header;
-  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  background: linear-gradient(135deg, #4b6587, #93b5c6);
   padding: 30px;
   display: grid;
   grid-template-columns: 1fr auto;
@@ -221,7 +221,7 @@ p {
 /*TITULO*/
 
 .titulo {
-  color: var(--cor-principal);
+  color: var(--cor-sec);
 }
 
 .titulo h1 {
@@ -245,7 +245,7 @@ p {
 .caracteristicas > div {
   width: 80px;
   text-align: center;
-  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  background: linear-gradient(135deg, #4b6587, #93b5c6);
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
   position: relative;
@@ -277,7 +277,7 @@ p {
 
 .destaque {
   font-size: 0.87rem;
-  color: var(--cor-principal);
+  color: var(--cor-sec);
   max-width: 16rem;
 }
 
@@ -287,7 +287,7 @@ p {
   padding: 30px;
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
-  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  background: linear-gradient(135deg, #4b6587, #93b5c6);
 }
 
 .citacao p {
@@ -326,7 +326,7 @@ p {
 
 .footer {
   grid-area: footer;
-  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  background: linear-gradient(135deg, #4b6587, #93b5c6);
 }
 
 .footer p {
