@@ -373,3 +373,12 @@ p {
   color: inherit;
   margin-left: 15px;
 }
+
+@media (max-width: 600px) {
+  .footer p {
+    font-size: 12px;
+  }
+  .footer img {
+    max-width: 16px;
+  }
+}
