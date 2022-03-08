@@ -332,5 +332,31 @@ p {
 .footer p {
   color: white;
   text-align: center;
-  padding: 30px;
+  padding: 5px;
+}
+
+.footer img {
+  max-width: 24px;
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.footer-redes p {
+  padding: 15px;
+  text-align: center;
+}
+.footer-redes {
+  max-width: auto;
+}
+
+.email {
+  align-self: center;
+  margin-left: 20px;
+  text-align: center;
+}
+
+.email {
+  text-decoration: none;
+  color: inherit;
+  margin-left: 15px;
 }
