@@ -1,6 +1,6 @@
 :root {
-  --cor-principal: #e44545;
-  --cor-secundaria: #a10101;
+  --cor-principal: #a10101;
+  --cor-secundaria: #e44545;
 }
 
 body,
@@ -260,13 +260,17 @@ p {
   position: relative;
 }
 
+.kg {
+  width: 100px !important;
+}
+
 .caracteristicas > div:first-child {
   margin-right: 30px;
 }
 
 .caracteristicas span {
   display: block;
-  color: var(--cor-principal);
+  color: var(--cor-secundaria);
 }
 
 .numero {
