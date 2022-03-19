@@ -6,6 +6,9 @@
 
 > O CA&O Discovery é um projeto da empresa fictícia CA&O. Elaborado para ser uma espécie de "wikipedia" interativo, com seu público alvo sendo crianças, porém, atrativo para todos. A finalidade é promover conhecimento científico sobre animais, e trazer essas informações de forma simples e visualmente atrativa.
 
+## 💻 Acessando o website
+Você pode acessar o projeto [clicando aqui.](https://caiokenedy.github.io/Caio-Discovery/)
+
 
 
 ## 🔧 Tecnologias e ferramentas utilizadas
@@ -28,9 +31,6 @@ O projeto possui um formulário feito em PHP (PHP FORMS) na página de contato d
 - [ ] Checagem minuciosa de algumas informações científicas
 - [ ] Setar o tamanho fixo das imagens para tornar o loading mais rápido
 - [ ] Adicionar novas páginas
-
-## 💻 Acessando o website
-Você pode acessar o projeto [clicando aqui.](https://caiokenedy.github.io/Caio-Discovery/)
 
 
 ## 🚀 executando o projeto
