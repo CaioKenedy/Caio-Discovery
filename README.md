@@ -2,7 +2,10 @@
 
 
 
-![](img/bichosreadme%201.png)
+![](img/discoveryreadme.png)
+<p align="center">
+  <img src="https://github.com/CaioKenedy/Caio-Discovery/blob/main/img/mobilediscoveryf.png" alt="Mobile image"/>
+</p>
 
 > O CA&O Discovery é um projeto da empresa fictícia CA&O. Elaborado para ser uma espécie de "wikipedia" interativo, com seu público alvo sendo crianças, porém, atrativo para todos. A finalidade é promover conhecimento científico sobre animais, e trazer essas informações de forma simples e visualmente atrativa.
 
@@ -23,8 +26,6 @@ Você pode acessar o projeto [clicando aqui.](https://caiokenedy.github.io/Caio-
 
 
 ## 🔖 Ajustes e melhorias
-
-O projeto possui um formulário feito em PHP (PHP FORMS) na página de contato do qual só funcionará em um servidor com suporte a esta linguaguem.
 
 - [x] Deixar o site totalmente responsivo
 - [x] O site deverá ser compreensível através de leitores de tela
