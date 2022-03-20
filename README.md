@@ -63,5 +63,5 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#CA&O-BIKES)<br>
+[⬆ Voltar ao topo](https://github.com/CaioKenedy/Caio-Discovery#cao-discovery)<br>
 
