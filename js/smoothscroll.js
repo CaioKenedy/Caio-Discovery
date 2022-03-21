@@ -1,6 +1,5 @@
 function initSmoothScroll() {
   const menuGeral = document.querySelectorAll(".js-menu a[href^= '#']");
-  console.log(menuGeral);
 
   function scrollToSection(event) {
     event.preventDefault();
