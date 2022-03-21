@@ -32,6 +32,7 @@ Você pode acessar o projeto [clicando aqui.](https://caiokenedy.github.io/Caio-
 - [ ] Checagem minuciosa de algumas informações científicas
 - [ ] Setar o tamanho fixo das imagens para tornar o loading mais rápido
 - [ ] Adicionar novas páginas
+- [ ] Adicionar Sobre
 
 
 ## 🚀 executando o projeto
